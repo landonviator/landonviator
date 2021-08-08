@@ -42,6 +42,13 @@
 
 <!-- YOUTUBE:END -->
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.landonviator.vercel.app/api?username=landonviator&show_icons=true&hide_border=true" />
+
+</details>
+
 [website]: https://landonviator.github.io/
 [youtube]: https://www.youtube.com/channel/UCc7q0d21eWZELE6TGL7bkNA
 [linkedin]: https://www.linkedin.com/in/landon-viator-phd-736bb719a/
