@@ -36,6 +36,12 @@
 <br />
 <br />
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
 [website]: https://landonviator.github.io/
 [youtube]: https://www.youtube.com/channel/UCc7q0d21eWZELE6TGL7bkNA
 [linkedin]: https://www.linkedin.com/in/landon-viator-phd-736bb719a/
