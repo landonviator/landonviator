@@ -39,7 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [My Reverb Plugin!](https://www.youtube.com/watch?v=LYMFS9zoYUQ)
+- [Pedal Update](https://www.youtube.com/watch?v=62Dt5Wckyq0)
+- [12ax7 Prototyping](https://www.youtube.com/watch?v=4O1t3iq33X8)
+- [chaoticStringDemo](https://www.youtube.com/watch?v=cxezcazHdU8)
+- [My New Amp + Pedal Demo!](https://www.youtube.com/watch?v=oy8B9f0JPVg)
 <!-- YOUTUBE:END -->
 
 <details>
