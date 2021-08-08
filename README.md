@@ -1,6 +1,4 @@
-# Hi there, I'm Landon - aka [Land00m]
-
-[<img align="left" alt="codeSTACKr.com" width="64px" src="https://github.com/landonviator/landonviator/blob/main/Images/landon55-08.png?raw=true" />][website]
+# Hi there, I'm Landon - [<img align="left" alt="codestackr.com" width="22px" src="https://github.com/landonviator/landonviator/blob/main/images/landon55-08.png?raw=true" />][website]
 
 ## I'm a Musician, Audio Engineer, Developer, Teacher, and Cat Dad
 
@@ -11,6 +9,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/landonviator/landonviator/blob/main/Images/landon55-08.png?raw=true" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
