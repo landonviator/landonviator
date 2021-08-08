@@ -48,7 +48,7 @@
 <!-- YOUTUBE:END -->
 
 [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator&show_icons=true&theme=tokyonight)
-)](https://github.com/landonviator/github-readme-stats)
+](https://github.com/landonviator/github-readme-stats)
 
 [website]: https://landonviator.github.io/
 [youtube]: https://www.youtube.com/channel/UCc7q0d21eWZELE6TGL7bkNA
