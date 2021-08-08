@@ -39,6 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [My Reverb Plugin!](https://www.youtube.com/watch?v=LYMFS9zoYUQ)
 - [Pedal Update](https://www.youtube.com/watch?v=62Dt5Wckyq0)
 - [12ax7 Prototyping](https://www.youtube.com/watch?v=4O1t3iq33X8)
@@ -49,7 +50,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.landonviator.vercel.app/api?username=landonviator&show_icons=true&hide_border=true" />
+  <img align="left" alt="Landon's GitHub Stats" src="https://github-readme-stats.landonviator.vercel.app/api?username=landonviator&show_icons=true&hide_border=true" />
 
 </details>
 
