@@ -9,7 +9,7 @@
 - 🥅 My goals are to make really cool audio technology for musicians everywhere.
 - ⚡ Fun fact: I also dabble in graphic design, electronics, am an avid gamer, and have three cats that I love dearly.
 
-[website]: https://codeSTACKr.com
+[website]: https://landonviator.github.io/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
