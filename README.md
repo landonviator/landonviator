@@ -47,12 +47,7 @@
 - [My New Amp + Pedal Demo!](https://www.youtube.com/watch?v=oy8B9f0JPVg)
 <!-- YOUTUBE:END -->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Landon's GitHub Stats" src="https://github-readme-stats.landonviator.vercel.app/api?username=landonviator&show_icons=true&hide_border=true" />
-
-</details>
+[![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator)](https://github.com/landonviator/github-readme-stats)
 
 [website]: https://landonviator.github.io/
 [youtube]: https://www.youtube.com/channel/UCc7q0d21eWZELE6TGL7bkNA
