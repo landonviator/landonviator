@@ -9,7 +9,7 @@
 
 ### Connect with me
 
-[<img align="left" alt="LandonViator.com" width="22px" src="https://github.com/landonviator/landonviator/blob/main/Images/landon55-08.png?raw=true" />][website]
+[<img align="left" alt="LandonViator.com" width="64px" src="https://github.com/landonviator/landonviator/blob/main/Images/landon55-08.png?raw=true" />][website]
 [<img align="left" alt="LandonViator | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="LandonViator | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="LandonViator | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
