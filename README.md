@@ -4,7 +4,7 @@
 
 - I focus on develping audio plugins, so DSP coupled with software development.
 - I’m working as a general software engineer @ Audiofile-Engineering: plugin development, Electron desktop development, and Jest testing.
-- My goals are to make really cool audio technology for musicians everywhere.
+- My passion is making really cool audio applications for musicians everywhere.
 - Fun fact: I also dabble in graphic design, electronics, am an avid gamer, and have three cats that I love dearly.
 
 ### Connect with me
@@ -39,6 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [My Reverb Plugin!](https://www.youtube.com/watch?v=LYMFS9zoYUQ)
 - [Pedal Update](https://www.youtube.com/watch?v=62Dt5Wckyq0)
 - [12ax7 Prototyping](https://www.youtube.com/watch?v=4O1t3iq33X8)
