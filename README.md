@@ -3,7 +3,7 @@
 ## I'm a Musician, Audio Engineer, Developer, Teacher, and Cat Dad
 
 - I focus on develping audio plugins, so DSP coupled with software development.
-- I’m working as a general software engineer @ Audiofile-Engineering: plugin development, Electron desktop development, and Jest testing.
+- I’m a contract DSP engineer at TheAudioProgrammer
 - My passion is making really cool audio applications for musicians everywhere.
 - Fun fact: I also dabble in graphic design, electronics, am an avid gamer, and have three cats that I love dearly.
 
@@ -50,6 +50,6 @@
 ](https://github.com/landonviator/github-readme-stats)
 
 [website]: https://landonviator.github.io/
-[youtube]: https://www.youtube.com/channel/UCc7q0d21eWZELE6TGL7bkNA
+[youtube]: https://www.youtube.com/channel/UCwEc_CsAk3ky7sX_yg6bSSg
 [linkedin]: https://www.linkedin.com/in/landon-viator-phd-736bb719a/
-[instagram]: https://www.instagram.com/landonviator/
+[instagram]: https://www.instagram.com/viatordsp/
