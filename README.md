@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Audio Plugin Dev | DSP Framework!](https://www.youtube.com/watch?v=EoL9TYjUuF0)
+- [Audio Plugin Dev | DSP Framework!](https://www.youtube.com/watch?v=3zEf5vsgFR0)
 - [Audio Plugin Dev | Fixing Just A Filter!](https://www.youtube.com/watch?v=ghS5Ec4oEgg)
 - [JUCE Plugin | Making a Generic GUI for a Compressor](https://www.youtube.com/watch?v=VSh0yBjUJaw)
 - [Audio Plugin Dev | Streamer Plugin Idea Part 1](https://www.youtube.com/watch?v=QX-CaWT9-MA)
