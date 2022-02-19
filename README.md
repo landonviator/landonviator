@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Audio Plugin Dev | Filter Update!](https://www.youtube.com/watch?v=eS35jwnLfLQ)
 - [Audio Plugin Dev | DSP Clipper Class!](https://www.youtube.com/watch?v=lXid76RBMo4)
 - [Audio Plugin Dev | DSP Framework!](https://www.youtube.com/watch?v=GyQ5d07CrYw)
 - [Audio Plugin Dev | Fixing Just A Filter!](https://www.youtube.com/watch?v=ghS5Ec4oEgg)
 - [JUCE Plugin | Making a Generic GUI for a Compressor](https://www.youtube.com/watch?v=VSh0yBjUJaw)
-- [Audio Plugin Dev | Streamer Plugin Idea Part 1](https://www.youtube.com/watch?v=QX-CaWT9-MA)
 <!-- YOUTUBE:END -->
 
 [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator&show_icons=true&theme=tokyonight)
