@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Audio Plugin Dev | Overdrive Pedal!](https://www.youtube.com/watch?v=Gd9QFR7Lez0)
 - [Audio Plugin Dev | Tab Component!](https://www.youtube.com/watch?v=xC8xXpt02cM)
 - [Audio Plugin Dev | Tab Component!](https://www.youtube.com/watch?v=BU_z4jTJNAw)
 - [Audio Plugin Dev | Tab Component!](https://www.youtube.com/watch?v=siISO_oLcxA)
 - [Audio Plugin Dev | Filter Update!](https://www.youtube.com/watch?v=eS35jwnLfLQ)
+- [Audio Plugin Dev | DSP Clipper Class!](https://www.youtube.com/watch?v=lXid76RBMo4)
 <!-- YOUTUBE:END -->
 
 [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator&show_icons=true&theme=tokyonight)
