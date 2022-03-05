@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Audio Plugin Dev | Intro to JUCE &amp; Audio!](https://www.youtube.com/watch?v=iFBtwj23-go)
 - [Audio Plugin Dev | SIMD Optimization!](https://www.youtube.com/watch?v=8GGSOyBDaY0)
 - [Audio Plugin Dev | Overdrive!](https://www.youtube.com/watch?v=JFMoSn1p8js)
 - [Audio Plugin Dev | Overdrive Pedal!](https://www.youtube.com/watch?v=Gd9QFR7Lez0)
 - [Audio Plugin Dev | Tab Component!](https://www.youtube.com/watch?v=xC8xXpt02cM)
-- [Audio Plugin Dev | Tab Component!](https://www.youtube.com/watch?v=BU_z4jTJNAw)
 <!-- YOUTUBE:END -->
 
 [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator&show_icons=true&theme=tokyonight)
