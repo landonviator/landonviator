@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Intro to JUCE and Audio: Project Creation and Xcode Setup](https://www.youtube.com/watch?v=YwmE82RgTNM)
 - [JUCE Plugin Dev | Intro to JUCE &amp; Audio: Full Plugin Creation for Beginners!](https://www.youtube.com/watch?v=iFBtwj23-go)
 - [Audio Plugin Dev | SIMD Optimization!](https://www.youtube.com/watch?v=8GGSOyBDaY0)
-- [Audio Plugin Dev | Overdrive!](https://www.youtube.com/watch?v=JFMoSn1p8js)
-- [Audio Plugin Dev | Overdrive Pedal!](https://www.youtube.com/watch?v=Gd9QFR7Lez0)
-- [Audio Plugin Dev | Tab Component!](https://www.youtube.com/watch?v=xC8xXpt02cM)
+- [Audio Plugin Dev | Overdrive Part 3!](https://www.youtube.com/watch?v=JFMoSn1p8js)
+- [Audio Plugin Dev | Overdrive Part 2!](https://www.youtube.com/watch?v=Gd9QFR7Lez0)
 <!-- YOUTUBE:END -->
 
 [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator&show_icons=true&theme=tokyonight)
