@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Intro to JUCE &amp; Audio Final Part | Capturing Parameter Changes](https://www.youtube.com/watch?v=6Kv8AeH7ENo)
+- [Intro to JUCE &amp; Audio Part 5 | Phase DSP and Choice Parameters](https://www.youtube.com/watch?v=smse3uXkkGA)
 - [Intro to JUCE &amp; Audio Part 4 | Automation Audio Parameters with Tree State](https://www.youtube.com/watch?v=KjjgGtVf45Q)
 - [Intro to JUCE &amp; Audio Part 3 | Processing Audio](https://www.youtube.com/watch?v=dYXoEwX0cFI)
 - [Intro to JUCE &amp; Audio Part 2 | Project Exploration](https://www.youtube.com/watch?v=fXo8TSKybuk)
-- [Audio Plugin Dev | Intro to JUCE UI!](https://www.youtube.com/watch?v=7cw2bT4Vz5U)
-- [Intro to JUCE &amp; Audio Part 1 |  Project Creation and Xcode Setup](https://www.youtube.com/watch?v=YwmE82RgTNM)
 <!-- YOUTUBE:END -->
 
 [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator&show_icons=true&theme=tokyonight)
