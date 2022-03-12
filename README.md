@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔮 Audio Plugin Dev | Progress Bar &amp; Multi-threading Full Stream!](https://www.youtube.com/watch?v=42PwCHuDKTE)
 - [🔮  Intro to JUCE &amp; GUI | Sliders, the Window, and Resizing!](https://www.youtube.com/watch?v=hspWrTvKVnY)
 - [🔮  Intro to JUCE &amp; Audio | Package Your Plugin or App Into An Installer!](https://www.youtube.com/watch?v=xS19-d4_jTM)
 - [Audio Plugin Dev | Connect UI to Audio!](https://www.youtube.com/watch?v=4NgaL0Q10Yo)
 - [🔮 Intro to JUCE &amp; Audio Final Part | Capturing Parameter Changes](https://www.youtube.com/watch?v=6Kv8AeH7ENo)
-- [🔮 Intro to JUCE &amp; Audio Part 5 | Phase DSP and Choice Parameters](https://www.youtube.com/watch?v=smse3uXkkGA)
 <!-- YOUTUBE:END -->
 
 [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator&show_icons=true&theme=tokyonight)
