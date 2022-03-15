@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Audio Plugin Dev | Waveform Viewer!](https://www.youtube.com/watch?v=zlCJge8IAfE)
+- [Audio Plugin Dev | Waveform Viewer! Full Stream](https://www.youtube.com/watch?v=zlCJge8IAfE)
 - [🔮  Intro to JUCE &amp; GUI | Buttons &amp; Labels!](https://www.youtube.com/watch?v=iVDlGFhbqw4)
 - [🔮 Audio Plugin Dev | Progress Bar &amp; Multi-threading Full Stream!](https://www.youtube.com/watch?v=42PwCHuDKTE)
 - [🔮  Intro to JUCE &amp; GUI | Sliders, the Window, and Resizing!](https://www.youtube.com/watch?v=hspWrTvKVnY)
