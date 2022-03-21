@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Audio Plugin Dev | More Distortion! Full Stream](https://www.youtube.com/watch?v=LnEy5t_SKnw)
 - [🔮  Intro to JUCE &amp; GUI | Menus, Borders, and Capturing Component Events!](https://www.youtube.com/watch?v=wkbmyCZJ45U)
 - [Audio Plugin Dev | Oversampling &amp; Distortion! Full Stream](https://www.youtube.com/watch?v=g45hEqTqEc8)
 - [🔮  C++ JUCE Plugin |  Progress Bar &amp; Simple Multi-Threading](https://www.youtube.com/watch?v=DdyVRfeQxRE)
 - [Audio Plugin Dev | Waveform Viewer! Full Stream](https://www.youtube.com/watch?v=zlCJge8IAfE)
-- [🔮  Intro to JUCE &amp; GUI | Buttons &amp; Labels!](https://www.youtube.com/watch?v=iVDlGFhbqw4)
 <!-- YOUTUBE:END -->
 
 [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator&show_icons=true&theme=tokyonight)
