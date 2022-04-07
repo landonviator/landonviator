@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Audio Plugin Dev Full Stream](https://www.youtube.com/watch?v=WTUs2DkqvTg)
 - [Audio Plugin Dev | LFO Additions! Full Stream](https://www.youtube.com/watch?v=rrZRRc0NbrY)
 - [Audio Plugin Dev | Making a Level Meter! Full Stream](https://www.youtube.com/watch?v=zBT1TjvYRtY)
 - [Audio Plugin Dev | spectrum for my Exciter! Full Stream](https://www.youtube.com/watch?v=vCap6F5M-4I)
 - [🔮  C++ JUCE Plugin |  Waveform Visualiser and Controls!](https://www.youtube.com/watch?v=BN-LWOgBkNw)
-- [Audio Plugin Dev | GUI for my Exciter! Full Stream](https://www.youtube.com/watch?v=ZLWuGo5CWeg)
 <!-- YOUTUBE:END -->
 
 [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator&show_icons=true&theme=tokyonight)
