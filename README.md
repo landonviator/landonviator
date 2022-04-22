@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Audio Plugin Dev | Header Interface Design Full Stream!](https://www.youtube.com/watch?v=ny4CWT2Sncg)
 - [Audio Plugin Dev | Multi-EQ FinalizingFull Stream!](https://www.youtube.com/watch?v=ljOj8ioDpKc)
 - [Audio Plugin Dev | Multi-EQ Part 2 Plugin Full Stream!](https://www.youtube.com/watch?v=jr-hKAncKRY)
 - [Audio Plugin Dev | Multi-EQ Plugin Full Stream!](https://www.youtube.com/watch?v=zMEpe6TJ3PI)
 - [Audio Plugin Dev Full Stream](https://www.youtube.com/watch?v=WTUs2DkqvTg)
+- [Audio Plugin Dev | LFO Additions! Full Stream](https://www.youtube.com/watch?v=rrZRRc0NbrY)
 <!-- YOUTUBE:END -->
 
 [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator&show_icons=true&theme=tokyonight)
