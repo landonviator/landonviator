@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Audio Plugin Dev | Delay DSP Module Full Stream!](https://www.youtube.com/watch?v=-cizMojq_Oc)
 - [🔮  Audio Plugin Dev | New Vocal Distortion Idea, Full Stream!](https://www.youtube.com/watch?v=SPUi263kEtU)
 - [Audio Plugin Dev | Basic Distortion DSP Class Full Stream!](https://www.youtube.com/watch?v=_SS0OrQ1w0Y)
 - [Audio Plugin Dev | Header Interface Design Full Stream!](https://www.youtube.com/watch?v=ny4CWT2Sncg)
 - [Audio Plugin Dev | Multi-EQ FinalizingFull Stream!](https://www.youtube.com/watch?v=ljOj8ioDpKc)
+- [Audio Plugin Dev | Multi-EQ Part 2 Plugin Full Stream!](https://www.youtube.com/watch?v=jr-hKAncKRY)
 <!-- YOUTUBE:END -->
 
 [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator&show_icons=true&theme=tokyonight)
