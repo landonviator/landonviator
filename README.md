@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Audio Plugin Dev | Vox Drive UI Full Stream!](https://www.youtube.com/watch?v=M7boQlQNaqA)
 - [Audio Plugin Dev | UI &amp; Custom LookAndFeel Full Stream!](https://www.youtube.com/watch?v=Tr00vw1FYBc)
 - [🔮  Audio Plugin Dev | Delay DSP Module Full Stream!](https://www.youtube.com/watch?v=cKx6cbRhPIY)
 - [🔮  Audio Plugin Dev | New Vocal Distortion Idea, Full Stream!](https://www.youtube.com/watch?v=SPUi263kEtU)
 - [Audio Plugin Dev | Basic Distortion DSP Class Full Stream!](https://www.youtube.com/watch?v=_SS0OrQ1w0Y)
-- [Audio Plugin Dev | Header Interface Design Full Stream!](https://www.youtube.com/watch?v=ny4CWT2Sncg)
 <!-- YOUTUBE:END -->
 
 [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator&show_icons=true&theme=tokyonight)
