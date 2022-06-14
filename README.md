@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Audio Plugin Dev | Parametric EQ Full Stream!](https://www.youtube.com/watch?v=MVz_BIgW7BQ)
 - [Audio Plugin Dev | Parametric EQ Full Stream!](https://www.youtube.com/watch?v=lWns2kswYlE)
 - [Audio Plugin Dev | Mix, Math to Code, &amp; EQ Full Stream!](https://www.youtube.com/watch?v=lCHZk5mqkVQ)
 - [Audio Plugin Dev | Vox Drive Drive Issue Full Stream!](https://www.youtube.com/watch?v=9QeFyNTJXkY)
 - [Audio Plugin Dev | Vox Drive Buttons &amp;  Phase Issue Full Stream!](https://www.youtube.com/watch?v=TICr76Tm9zY)
-- [Audio Plugin Dev | Vox Drive UI Full Stream!](https://www.youtube.com/watch?v=M7boQlQNaqA)
 <!-- YOUTUBE:END -->
 
 [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator&show_icons=true&theme=tokyonight)
