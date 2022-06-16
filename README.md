@@ -39,8 +39,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Audio Plugin Dev | Parametric EQ Full Stream!](https://www.youtube.com/watch?v=MVz_BIgW7BQ)
-- [Audio Plugin Dev | Parametric EQ Full Stream!](https://www.youtube.com/watch?v=lWns2kswYlE)
+- [Audio Plugin Dev | Parametric EQ Part 2 Full Stream!](https://www.youtube.com/watch?v=MVz_BIgW7BQ)
+- [Audio Plugin Dev | Parametric Part 1 EQ Full Stream!](https://www.youtube.com/watch?v=lWns2kswYlE)
 - [Audio Plugin Dev | Mix, Math to Code, &amp; EQ Full Stream!](https://www.youtube.com/watch?v=lCHZk5mqkVQ)
 - [Audio Plugin Dev | Vox Drive Drive Issue Full Stream!](https://www.youtube.com/watch?v=9QeFyNTJXkY)
 - [Audio Plugin Dev | Vox Drive Buttons &amp;  Phase Issue Full Stream!](https://www.youtube.com/watch?v=TICr76Tm9zY)
