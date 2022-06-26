@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [C++ JUCE Coding | Example Audio Plugin Full Stream!](https://www.youtube.com/watch?v=RGNVUZbPsBM)
+- [C++ JUCE Coding | Advanced Gain Plugin Part 1 Full Stream!](https://www.youtube.com/watch?v=RGNVUZbPsBM)
 - [Audio Plugin Dev | Parametric EQ Part 3 Full Stream!](https://www.youtube.com/watch?v=0wUS643OCFY)
 - [Audio Plugin Dev | Parametric EQ Part 2 Full Stream!](https://www.youtube.com/watch?v=MVz_BIgW7BQ)
 - [Audio Plugin Dev | Parametric Part 1 EQ Full Stream!](https://www.youtube.com/watch?v=lWns2kswYlE)
