@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [C++ JUCE Coding | Advanced Gain Plugin Full Stream!](https://www.youtube.com/watch?v=JVBnCTa8sxE)
+- [C++ JUCE Coding | Advanced Gain Plugin Final Full Stream!](https://www.youtube.com/watch?v=NOYk7O9EJjo)
+- [C++ JUCE Coding | Advanced Gain Plugin Part 2 Full Stream!](https://www.youtube.com/watch?v=JVBnCTa8sxE)
 - [C++ JUCE Coding | Advanced Gain Plugin Part 1 Full Stream!](https://www.youtube.com/watch?v=RGNVUZbPsBM)
 - [Audio Plugin Dev | Parametric EQ Part 3 Full Stream!](https://www.youtube.com/watch?v=0wUS643OCFY)
 - [Audio Plugin Dev | Parametric EQ Part 2 Full Stream!](https://www.youtube.com/watch?v=MVz_BIgW7BQ)
-- [Audio Plugin Dev | Parametric Part 1 EQ Full Stream!](https://www.youtube.com/watch?v=lWns2kswYlE)
 <!-- YOUTUBE:END -->
 
 [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator&show_icons=true&theme=tokyonight)
