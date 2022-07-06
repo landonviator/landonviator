@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [C++ JUCE Coding | Advanced Compressor Plugin Final Full Stream!](https://www.youtube.com/watch?v=DcsJmUnG1HM)
+- [C++ JUCE Coding | Advanced Compressor Plugin Part 1 Full Stream!](https://www.youtube.com/watch?v=DcsJmUnG1HM)
 - [C++ JUCE Coding | Basic Compressor and Distortion Plugin Full Stream!](https://www.youtube.com/watch?v=NOYk7O9EJjo)
 - [C++ JUCE Coding | Advanced Gain Plugin Part 2 Full Stream!](https://www.youtube.com/watch?v=JVBnCTa8sxE)
 - [C++ JUCE Coding | Advanced Gain Plugin Part 1 Full Stream!](https://www.youtube.com/watch?v=RGNVUZbPsBM)
