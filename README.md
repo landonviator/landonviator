@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [C++ JUCE Coding | MultiBand Bit Crusher Plugin Part 2 DSP Full Stream!](https://www.youtube.com/watch?v=EbEzRGbBa5w)
 - [C++ JUCE Coding | MultiBand Bit Crusher Plugin Part 2 DSP Full Stream!](https://www.youtube.com/watch?v=EW5xkdS9PTM)
 - [C++ JUCE Coding | MultiBand Bit Crusher Plugin Part 2 DSP Full Stream!](https://www.youtube.com/watch?v=K0WlMTwq6ow)
 - [C++ JUCE Coding | MultiBand Bit Crusher Plugin Part 2 DSP Full Stream!](https://www.youtube.com/watch?v=RYSZVy-UeDU)
 - [C++ JUCE Coding | MultiBand Bit Crusher Plugin Part 1 DSP Full Stream!](https://www.youtube.com/watch?v=nO3EoElcpp8)
+- [C++ JUCE Coding | Advanced Distortion Plugin Part 2 DSP Full Stream!](https://www.youtube.com/watch?v=xL5wO62km_I)
 <!-- YOUTUBE:END -->
 
 [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator&show_icons=true&theme=tokyonight)
