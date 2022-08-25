@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [C++ JUCE Coding | MultiBand Bit Crusher Plugin Part 4 GUI Full Stream!](https://www.youtube.com/watch?v=1fLjCvhF1mA)
-- [C++ JUCE Coding | MultiBand Bit Crusher Plugin Part 3 GUI Full Stream!](https://www.youtube.com/watch?v=TKAmyN1H3LY)
-- [C++ JUCE Coding | MultiBand Bit Crusher Plugin Part 2 DSP Full Stream!](https://www.youtube.com/watch?v=EbEzRGbBa5w)
-- [C++ JUCE Coding | MultiBand Bit Crusher Plugin Part 1 DSP Full Stream!](https://www.youtube.com/watch?v=nO3EoElcpp8)
-- [C++ JUCE Coding | Advanced Distortion Plugin Part 2 DSP Full Stream!](https://www.youtube.com/watch?v=xL5wO62km_I)
+- [C++ JUCE Coding | Meters Part 1 Full Stream!](https://www.youtube.com/watch?v=91lbrqtXJAQ)
+- [C++ JUCE Coding | Meters Part 1 Full Stream!](https://www.youtube.com/watch?v=kxEE3ZQ2O2A)
+- [C++ JUCE Coding | Meters Part 1 Full Stream!](https://www.youtube.com/watch?v=a5N3n41FQqA)
+- [C++ JUCE Coding | Meters Part 1 Full Stream!](https://www.youtube.com/watch?v=3CBndg-YEY0)
+- [C++ JUCE Coding | Meters Part 1 Full Stream!](https://www.youtube.com/watch?v=ApgxKuX0uRc)
 <!-- YOUTUBE:END -->
 
 [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator&show_icons=true&theme=tokyonight)
