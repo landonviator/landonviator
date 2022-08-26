@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [C++ JUCE Coding | Meters Part 1 Full Stream!](https://www.youtube.com/watch?v=91lbrqtXJAQ)
 - [C++ JUCE Coding | Meters Part 1 Full Stream!](https://www.youtube.com/watch?v=kxEE3ZQ2O2A)
 - [C++ JUCE Coding | Meters Part 1 Full Stream!](https://www.youtube.com/watch?v=a5N3n41FQqA)
 - [C++ JUCE Coding | Meters Part 1 Full Stream!](https://www.youtube.com/watch?v=3CBndg-YEY0)
 - [C++ JUCE Coding | Meters Part 1 Full Stream!](https://www.youtube.com/watch?v=ApgxKuX0uRc)
+- [C++ JUCE Coding | Meters Part 1 Full Stream!](https://www.youtube.com/watch?v=t2nwXLOc8g4)
 <!-- YOUTUBE:END -->
 
 [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator&show_icons=true&theme=tokyonight)
