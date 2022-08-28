@@ -2,9 +2,9 @@
 
 ## I'm a Musician, Audio Engineer, Developer, Teacher, and Cat Dad
 
-- I focus on develping audio plugins, so DSP coupled with software development.
-- I’m a contract DSP engineer at TheAudioProgrammer
-- My passion is making really cool audio applications for musicians everywhere.
+- I focus on develping audio plugins
+- I’m a software engineer at Music Tribe
+- My passion is making really cool audio applications for musicians everywhere
 - Fun fact: I also dabble in graphic design, electronics, am an avid gamer, and have three cats that I love dearly.
 
 ### Connect with me
