@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Ultimate Lofi Experience - Vibe Mechanic MkII Audio Plugin](https://www.youtube.com/watch?v=cNcdE5swES8)
 - [🔮  Audio Plugin Dev | Let&#39;s Create an Amp Sim Full Stream!](https://www.youtube.com/watch?v=atCHBCvuxFs)
 - [C++ JUCE Coding | Alert Windows &amp; Callbakcs Full Stream!](https://www.youtube.com/watch?v=4QoXv66mXXI)
 - [C++ JUCE Coding | IR Convolution &amp; File Loader Full Stream!](https://www.youtube.com/watch?v=gApXhjM-API)
 - [C++ JUCE Coding | Meters Part 1 Full Stream!](https://www.youtube.com/watch?v=_lUa_R-nG30)
-- [C++ JUCE Coding | MultiBand Bit Crusher Plugin Part 4 GUI Full Stream!](https://www.youtube.com/watch?v=1fLjCvhF1mA)
 <!-- YOUTUBE:END -->
 
 [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonviator&show_icons=true&theme=tokyonight)
