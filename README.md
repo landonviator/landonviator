@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The Ultimate Lofi Experience - Vibe Mechanic MkII Audio Plugin](https://www.youtube.com/watch?v=cNcdE5swES8)
+- [New Plugin For Lofi Study Vibes](https://www.youtube.com/watch?v=cNcdE5swES8)
 - [🔮  Audio Plugin Dev | Let&#39;s Create an Amp Sim Full Stream!](https://www.youtube.com/watch?v=atCHBCvuxFs)
 - [C++ JUCE Coding | Alert Windows &amp; Callbakcs Full Stream!](https://www.youtube.com/watch?v=4QoXv66mXXI)
 - [C++ JUCE Coding | IR Convolution &amp; File Loader Full Stream!](https://www.youtube.com/watch?v=gApXhjM-API)
