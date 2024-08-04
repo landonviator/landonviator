@@ -3,7 +3,7 @@
 I'm a passionate musician and engineer with a deep love for creating innovative audio software. My journey in music 
 and technology has led me to specialize in developing cutting-edge audio applications that enhance sound experiences 
 for users. I primarily work with C++ and the JUCE framework, leveraging my expertise to craft efficient and 
-high-performance audio plugins and digital audio workstations (DAWs).
+high-performance audio plugins..
 
 What I Do
 
