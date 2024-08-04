@@ -18,9 +18,11 @@ and push the boundaries of what's possible in audio technology.
 
 Technologies I Use
 
-- Programming Languages: C++, Rust, Python
-- Frameworks & Tools: JUCE, VST, AU, AAX
-- Audio Processing: Real-time audio processing, synthesizer design, effects development
+- Programming Languages: C++, C#, Rust, Python
+- Frameworks: Juce, VST, AU, AAX, Unity
+- Systems: Mac, Linux, Windows
+- Tools: CLion, CMake, Xcode, Visual Studio
+- DevOps: Git, GitHub Actions (CI/CD), Unit Testing
 
 Projects & Contributions
 
